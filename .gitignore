@@ -1,0 +1,14 @@
+# Ignore Mac Desktop Services files
+.DS_Store
+
+# Ignore directory .vscode/ and .venv/
+.vscode/
+.venv/
+
+# Ignore Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore chromedriver
+chromedriver
+
